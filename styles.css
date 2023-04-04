@@ -1,0 +1,85 @@
+#title{
+  background-color: #ff4c68;
+}
+
+.h1tag{
+  font-family: Montserrat;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.title-image{
+  width: 60%;
+  transform: rotate(26deg);
+}
+.feature-h3{
+  font-size: 1.5rem;
+  font-family: montserrat;
+  font-weight: 900;
+  
+}
+#col-changing-img:hover{
+  color: orange;
+  cursor: pointer;
+}
+#features{
+  padding: 7% 2%;
+}
+.icon{
+    color: #ef8172;
+    font-size: 4rem;
+    margin-bottom: 6%;
+   
+}
+.icon:hover{
+  color: #ff4c68;
+}
+#testimonials{
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+.testimonial-text-main{
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+  padding: 0% 15%;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius:100%;
+}
+#press{
+  text-align: center;
+  background-color: #ef8172;
+  padding-bottom: 3% ;
+  padding-top: 10%;
+}
+.press-images{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.pricing-top{
+  text-align: center;
+}
+.pricing-bold-text{
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+  padding: 0% 15%;
+}
+.pricing-nameofdog{
+  font-family: Montserrat;
+  font-weight: 900;
+}
+
+#pricing{
+  padding: 100px;
+}
+.card{
+  text-align: center;
+  width: 0.8rem;
+}
